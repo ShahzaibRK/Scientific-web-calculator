@@ -23,7 +23,7 @@ You only need a modern web browser (Chrome, Firefox, Edge, Safari) — no instal
 Installation
 Clone or download the repository:
 
-git clone https://github.com/yourusername/sk-calculator.git
+git clone https://github.com/ShahzaibRK/Scientific-web-calculator/tree/main)
 cd sk-calculator
 Open index.html in your browser.
 
